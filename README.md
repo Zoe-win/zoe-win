@@ -8,7 +8,7 @@
 
 ### Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Zoezz3)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Zoe-win)
 
 
 <!--
